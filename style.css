@@ -1,0 +1,10 @@
+#logo {
+  width: 200px;
+  display: block;
+  margin: 70px auto 50px auto;
+}
+
+#content {
+  margin: auto;
+  max-width: 35em;
+}
